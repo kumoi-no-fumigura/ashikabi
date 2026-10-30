@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ashikabi",
  "yomi": "あしかび",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌論書",
+  "era": "寛政2年（1790）9月",
+  "author": "小沢蘆庵（1723〜1801）",
+  "desc": "歌は求めて巧むものではなく、いま思うことをふだんの詞で、聞いて分かるように言い出すものだと説く短い歌論。末に庚戌（寛政2年）秋9月の識語がある。"
+ },
  "editions": [
   {
    "pid": "993384",
